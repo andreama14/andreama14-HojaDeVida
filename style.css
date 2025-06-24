@@ -1,0 +1,15 @@
+*{
+    font-family:'Montserrat', sans-serif;
+
+}
+
+
+/* Ajuste color cólumna izquierda */
+.bg-primary{
+    background-color: hsl(294, 81%, 69%) !important;
+}
+
+.img{
+    width: 300px;
+
+}
